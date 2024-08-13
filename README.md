@@ -1,15 +1,14 @@
 # Library-Corner
 公文字体
+|             唯一名称              | 系列名称       | 样式名称 | PostScript名称  |             版本              |                             版权                             |
+| :-------------------------------: | -------------- | :------: | :-------------: | :---------------------------: | :----------------------------------------------------------: |
+|            楷体_GB2312            | 楷体_GB2312    | Regular  |  KaiTi_GB2312   |         Version 2.00          |          (C) Copyright GreatWall Computer Co. 1994           |
+|            仿宋_GB2312            | 仿宋_GB2312    | Regular  | FangSong_GB2312 |         Version 2.00          |          (C) Copyright GreatWall Computer Co. 1994           |
+| Founder:方正小标宋简体	Regular | 方正小标宋简体 | Regular  | FZXBSJW--GB1-0  |             5.30              |    Copyright(c) Beijing Founder Electronics Co.,Ltd.2015     |
+| Founder:方正小标宋_GBK	Regular | 方正小标宋_GBK | Regular  | FZXBSK--GBK1-0  |             1.10              |            Copyright(c) Founder Corporation.1999             |
+|  Founder:方正仿宋_GBK	Regular  | 方正仿宋_GBK   | Regular  |  FZFSK--GBK1-0  |             5.30              |    Copyright(c) Beijing Founder Electronics Co.,Ltd.2015     |
+|  Founder:方正黑体_GBK	Regular  | 方正黑体_GBK   | Regular  |  FZHTK--GBK1-0  |             5.30              |    Copyright(c) Beijing Founder Electronics Co.,Ltd.2015     |
+|               黑体                | 黑体           | Regular  |     SimHei      |         Version 5.01          |       字体数据由北京中易中标电子信息技术有限公司提供。       |
+|          教育部标准楷书           | 教育部标准楷书 | Regular  | TW-MOE-Std-Kai  | Version 4.00, September, 2019 | (c)本字形档采用创用CC姓名标示-禁止改作 3.0 台湾版授权。如需引用，请标示中华民国教育部。 |
+|  Founder:方正楷体_GBK	Regular  | 方正楷体_GBK   | Regular  |  FZKTK--GBK1-0  |             5.30              |    Copyright(c) Beijing Founder Electronics Co.,Ltd.2015     |
 
-| PostScript 名称  | 唯一名称 |  收拾收拾 |
-| ------------- | ------------- |
-| Content Cell  | Content Cel下X操作吃着吃着l 滴滴代驾阿帆诉讼费  |
-| Content Cell  | Content Cell  |
-
-| Command | Description |
-!~!@#$#%^&*())__+)__((**&)__"KOP{:"{{}}">?><>??:
-
-
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
