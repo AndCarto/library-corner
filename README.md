@@ -11,6 +11,7 @@
 |            楷体_GB2312            | 楷体_GB2312    | Regular  | [KaiTi_GB2312](https://github.com/AndCarto/library-corner/blob/main/fonts/KaiTi_GB2312.ttf) |         Version 2.00          |          (C) Copyright GreatWall Computer Co. 1994           |
 |               黑体                | 黑体           | Regular  | [SimHei](https://github.com/AndCarto/library-corner/blob/main/fonts/SimHei.ttf) |         Version 5.01          |       字体数据由北京中易中标电子信息技术有限公司提供。       |
 |          教育部标准楷书           | 教育部标准楷书 | Regular  | [TW-MOE-Std-Kai](https://github.com/AndCarto/library-corner/blob/main/fonts/TW-MOE-Std-Kai.ttf) | Version 4.00, September, 2019 | (c)本字形档采用创用CC姓名标示-禁止改作 3.0 台湾版授权。如需引用，请标示中华民国教育部。 |
+|Monotype:Times New Roman Regular (Microsoft)|Times New Roman|常规体| [TimesNewRomanPSMT](https://github.com/AndCarto/library-corner/blob/main/fonts/TW-MOE-Std-Kai.ttf) |Version 7.01|
 
 <img width="456" alt="image" src="https://github.com/user-attachments/assets/419720e5-e723-4628-97a4-fb7df1779b49">
 <img width="504" alt="image" src="https://github.com/user-attachments/assets/49ae0aea-be49-4137-8a68-fe74d99c83cd">
